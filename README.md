@@ -10,7 +10,7 @@
 #### 本地构建
 1、clone到本地并cd到文件夹
 ```bash
-git clone [你的项目Git仓库地址]
+git clone https://github.com/chengdidididi/crossfix.git
 cd [项目文件夹]
 ```
 2、安装依赖
